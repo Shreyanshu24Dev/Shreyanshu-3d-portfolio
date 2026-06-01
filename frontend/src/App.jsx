@@ -19,7 +19,7 @@ function App() {
         <Documents />
         <Contact />
         <footer className="footer">
-          <p>Designed with 💚 by You | &copy; 2026 All Rights Reserved</p>
+          <p>Designed with 💚 by Shreyanshu | &copy; 2026 All Rights Reserved</p>
         </footer>
       </main>
     </>
