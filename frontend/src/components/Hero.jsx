@@ -59,7 +59,7 @@ function Hero() {
           WebkitBackgroundClip: 'text',
           WebkitTextFillColor: 'transparent',
           animation: 'gradientShift 3s ease infinite'
-        }}>YOUR NAME</h1>
+        }}>Shreyanshu</h1>
         <div style={{
           fontSize: '1.1rem',
           color: '#00ff88',

@@ -35,7 +35,7 @@ function Navbar() {
         color: '#00ff88',
         textShadow: '0 0 20px rgba(0, 255, 136, 0.5)',
         letterSpacing: '2px'
-      }}>&lt;DevPortfolio /&gt;</div>
+      }}>&lt;SHREYANSHU /&gt;</div>
       <ul style={{
         display: 'flex',
         gap: '30px',

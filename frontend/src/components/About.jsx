@@ -67,7 +67,7 @@ function About() {
           />
         </div>
         <div>
-          <h3 style={{ fontFamily: "'Orbitron', sans-serif", fontSize: '1.8rem', color: '#fff', marginBottom: '10px' }}>Your Name</h3>
+          <h3 style={{ fontFamily: "'Orbitron', sans-serif", fontSize: '1.8rem', color: '#fff', marginBottom: '10px' }}>Shreyanshu</h3>
           <div style={{ color: '#00ccff', fontSize: '1.1rem', marginBottom: '20px' }}>B.Tech in Computer Science & Engineering</div>
           <p style={{ color: '#aaa', lineHeight: 1.8, marginBottom: '15px' }}>
             Welcome to my digital space! I am a passionate Computer Science student exploring the depths of 

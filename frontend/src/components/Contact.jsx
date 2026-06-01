@@ -4,10 +4,10 @@ function Contact() {
   const [status, setStatus] = useState('')
 
   const socials = [
-    { label: 'GH', url: 'https://github.com/yourusername', title: 'GitHub' },
-    { label: 'LI', url: 'https://linkedin.com/in/yourusername', title: 'LinkedIn' },
-    { label: '@', url: 'mailto:your.email@example.com', title: 'Email' },
-    { label: 'LC', url: 'https://leetcode.com/yourusername', title: 'LeetCode' }
+    { label: 'GH', url: 'https://github.com/Shreyanshu24Dev', title: 'GitHub' },
+    { label: 'LI', url: 'https://in.linkedin.com/in/shreyanshu-tripathi-802190310', title: 'LinkedIn' },
+    { label: '@', url: 'mailto:shreyanshu7227@gmail.com', title: 'Email' },
+    { label: 'LC', url: 'https://leetcode.com/shreyanshu24dev', title: 'LeetCode' }
   ]
 
   return (
