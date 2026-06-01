@@ -1,0 +1,7 @@
+node_modules/
+.env
+contact-messages.txt
+uploads/*.pdf
+uploads/*.doc
+uploads/*.docx
+.DS_Store
